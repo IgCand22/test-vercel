@@ -1,0 +1,23 @@
+{
+  "name": "test-vercel",
+  "version": "1.0.0",
+  "description": "Testando Vercel em sala",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgCand22/test-vercel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgCand22/test-vercel/issues"
+  },
+  "homepage": "https://github.com/IgCand22/test-vercel#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
